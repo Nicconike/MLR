@@ -1,4 +1,4 @@
-# MLR
+# MLR (Multiple Linear Regression)
 Data Analysis Tool in Java : Multiple Linear Regression
 Line_Plot.java - Two functions are used from this file , coefficient(double[] array1, double[] array2) and intercept(double[] array1, double[] array2).
 
