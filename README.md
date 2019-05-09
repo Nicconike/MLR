@@ -15,3 +15,5 @@ The output GUI created using JavaFx
 <a href="https://imgur.com/UIFSIuO"><img src="https://i.imgur.com/UIFSIuO.jpg" title="source: imgur.com" /></a>
 
 Shows the regression for 2 independent variables upon 1 dependent variable and is plotted using JavaFx.
+
+At the end, the equation of line in the form of y=α+β1x1+β2x2+ε is generated using the defined dataset.
