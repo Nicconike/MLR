@@ -7,3 +7,7 @@ coefficient function gives the coefficient value of a line by taking array of nu
 intercept function calculates the intercept , or also called as y-intercept.
 
 Regression.java - Main program to implement and analyze the multiple linear regression based on the pre-defined dataset.
+
+https://github.com/Nicconike/MLR/blob/master/Annotation%202019-05-09%20211829.jpg
+
+The above link shows the output GUI created using JavaFx
