@@ -11,3 +11,7 @@ Regression.java - Main program to implement and analyze the multiple linear regr
 https://github.com/Nicconike/MLR/blob/master/Annotation%202019-05-09%20211829.jpg
 
 The above link shows the output GUI created using JavaFx
+
+https://github.com/Nicconike/MLR/blob/master/Annotation%202019-05-09%20211929.jpg
+
+Shows the regression for 2 independent variables upon 1 dependent variable and is plotted using JavaFx.
