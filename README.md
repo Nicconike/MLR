@@ -8,10 +8,10 @@ intercept function calculates the intercept , or also called as y-intercept.
 
 Regression.java - Main program to implement and analyze the multiple linear regression based on the pre-defined dataset.
 
-https://github.com/Nicconike/MLR/blob/master/Annotation%202019-05-09%20211829.jpg
+[Imgur](https://i.imgur.com/EvKFcu1.jpg)
 
 The above link shows the output GUI created using JavaFx
 
-https://github.com/Nicconike/MLR/blob/master/Annotation%202019-05-09%20211929.jpg
+[Imgur](https://i.imgur.com/UIFSIuO.jpg)
 
 Shows the regression for 2 independent variables upon 1 dependent variable and is plotted using JavaFx.
